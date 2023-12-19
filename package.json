@@ -1,0 +1,16 @@
+{
+  "name": "qrcodeconversion",
+  "version": "1.0.0",
+  "description": "For Converting some shit to qr code",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Penh Seyha",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "qrcode": "^1.5.3"
+  }
+}
